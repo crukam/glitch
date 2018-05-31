@@ -13,7 +13,7 @@ Your Project
 
 ### ← README.md
 
-That's this file, where you can tell people what your cool website does and how you built it.
+That's this file, with instructions about what to do and links for info and hints.
 
 ### ← index.html
 
@@ -23,15 +23,11 @@ Where you'll write the content of your website.
 
 CSS files add styling rules to your content.
 
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
 ### ← assets
 
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Fog Creek](https://fogcreek.com/)
+Here is where you will find the images you will need to cmplete the challenge
 -------------------
 
 \ ゜o゜)ノ
+
+HT
