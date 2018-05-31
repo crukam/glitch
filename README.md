@@ -33,7 +33,7 @@ Here is where you will find the images you will need to complete the challenge
 HTML/CSS Table Challenge
 -------------------------
 
-[completed table](/assets/image_0.png)
+HTML/CSS Table Challenge![completed table](https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fimage_0.png?1527761915609)
 
 
 
@@ -43,11 +43,11 @@ Make the table above in HTML and style with CSS and embed your solution in a blo
 
 1. The table width should fill any container it is put in
 
-2. The [noise image](/assets/noise.png) is on the table body only not the head or foot
+2. The [noise image](https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fnoise.png) is on the table body only not the head or foot
 
 3. The two fonts are **Rock Salt** and **Helvetica Neu**
 
-4. Here is that lovely [leopard skin image](/assets/leopardskin.jpg )
+4. Here is that lovely [leopard skin image](https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245)
 
 5. There is a gradient fill on the header and footer - rgba(0,0,0,0.1),  rgba(0,0,0,0.5)
 
