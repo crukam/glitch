@@ -29,11 +29,17 @@ thead th, tfoot th, tfoot td{
 
 .odd {
 background: #ff33cc;
+  background-image: url('https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fnoise.png');
 }
 
 .even {
 background: #e495e4;
+  background-image: url('https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fnoise.png');
 }
 .right {
 text-align: right;
+}
+
+caption {
+  font-family: 'Rock Salt', cursive;
 }
