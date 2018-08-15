@@ -5,7 +5,7 @@ table {
 
 th,td {
     
-    padding: 10px 10px;
+    padding: 10px 60px;
 }
 
 /*table:nth-child(odd) {
@@ -23,8 +23,8 @@ thead,tfoot {
   
 }
 
-thead {
-  
+thead th, tfoot th, tfoot td{
+  border: 1px solid #800080;
 }
 
 .odd {
