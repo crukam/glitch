@@ -7,7 +7,7 @@ th {
     padding: 10px 10px;
 }
 
-tr:nth-child(odd) {
+table:nth-child(odd) {
   background: #ff33cc;
 }
 
