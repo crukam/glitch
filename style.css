@@ -4,5 +4,13 @@ table {
 
 th {
     border: 1px solid #000;
-    padding: 0 10px;
+    padding: 10px 10px;
+}
+
+tr:nth-child(odd) {
+  background: #ff33cc;
+}
+
+.heading {
+ background-image: url('https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245');
 }
