@@ -1,10 +1,11 @@
-tbody {
-  background: url (table_body.jpg);
+table {
   border-color: #800080;
+  border-collapse: collapse;
 }
 
 tr:nth-child(even) {
   background-color: #e495e4 ;
+  padding: 
 }
 
 tr:nth-child(odd) {
@@ -18,5 +19,6 @@ tfoot {
 }
 
 
+  
 
 
