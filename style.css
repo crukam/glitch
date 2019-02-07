@@ -5,7 +5,7 @@ table {
 
 tr:nth-child(even) {
   background-color: #e495e4 ;
-  padding: 
+  
 }
 
 tr:nth-child(odd) {
@@ -15,7 +15,6 @@ tr:nth-child(odd) {
 th, 
 tfoot {
   background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fimage_0.png?1527761915609);
-  
 }
 
 
