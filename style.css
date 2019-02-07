@@ -1,4 +1,5 @@
 tbody {
+  background: url (table_body.jpg);
   border-color: #800080;
 }
 
@@ -15,6 +16,7 @@ tfoot {
   background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fimage_0.png?1527761915609);
   
 }
+
 
 
 
