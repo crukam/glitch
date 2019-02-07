@@ -3,8 +3,17 @@ tbody {
 }
 
 tr:nth-child(even) {
-  back
+  background-color: #e495e4 ;
+}
+
+tr:nth-child(odd) {
+ background-color: #ff33cc; 
+}
+
+tfoot, 
+th {
+  background-image: url ('');
+}
 
 
-tr:nth-child(even)
 
