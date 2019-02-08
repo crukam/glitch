@@ -20,10 +20,14 @@ tr td:nth-child(1) {
 td {
   font-family: Helvetica Neue;
 }
+tbody{
+  height:32px;
+}
 
 th{
   background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
   font-family: Rock Salt;
+  
 }
 
 caption {
@@ -33,6 +37,7 @@ caption {
 .footer{
   background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
   font-family: Rock Salt;
+  height: 40px;
   padding: 10px 10px 20px 10px;
 }
 .one{
