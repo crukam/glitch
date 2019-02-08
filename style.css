@@ -1,8 +1,13 @@
 table {
-  border-color: #800080;
   border-collapse: collapse;
   text-align: center;
   width:60%;
+  border: 2px solid #800080;
+}
+
+tbody{
+  height:32px;
+  font-family: Helvetica Neue;
 }
 
 tr:nth-child(even) {
@@ -11,30 +16,21 @@ tr:nth-child(even) {
 
 tr:nth-child(odd) {
   background-color: #ff33cc; 
-  
 }
 
 tr td:nth-child(1) {
   font-weight: bold;
 }
 
-tbody{
-  font-family: Helvetica Neue;
-}
-tbody{
-  height:32px;
-}
-
 th{
   background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
   font-family: Rock Salt;
   color: white;
+  border: 2px solid #800080;
   
 }
 
-caption {
-  caption-side: bottom; 
-  
+
 }
 .footer{
   background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
@@ -49,3 +45,9 @@ caption {
 .two{
   text-align: left;
 }
+
+caption {
+  caption-side: bottom; 
+  font-family: Rock Salt;
+  text-align: right;
+  
