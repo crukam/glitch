@@ -2,6 +2,7 @@ table {
   border-color: #800080;
   border-collapse: collapse;
   text-align: center;
+  width:60%;
 }
 
 tr:nth-child(even) {
@@ -17,7 +18,7 @@ tr td:nth-child(1) {
   font-weight: bold;
 }
 
-td {
+tbody{
   font-family: Helvetica Neue;
 }
 tbody{
@@ -27,6 +28,7 @@ tbody{
 th{
   background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
   font-family: Rock Salt;
+  color: white;
   
 }
 
@@ -36,12 +38,13 @@ caption {
 }
 .footer{
   background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
-  font-family: Rock Salt;
+  color: white;
   height: 40px;
-  padding: 10px 10px 20px 10px;
+  padding: 6px 6px 7px 6px;
 }
 .one{
   text-align: right;
+  font-family: Rock Salt;
 }
 .two{
   text-align: left;
