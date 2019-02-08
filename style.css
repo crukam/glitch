@@ -1,16 +1,16 @@
 table {
   border-color: #800080;
   border-collapse: collapse;
+  text-align: center;
 }
 
 tr:nth-child(even) {
   background-color: #e495e4;
-  text-align: center;
 }
 
 tr:nth-child(odd) {
   background-color: #ff33cc; 
-  text-align: center;
+  
 }
 
 tr td:nth-child(1) {
@@ -33,6 +33,11 @@ caption {
 .footer{
   background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
   font-family: Rock Salt;
+  padding: 10px 10px 20px 10px;
+}
+.one{
   text-align: right;
 }
-
+.two{
+  text-align: left;
+}
