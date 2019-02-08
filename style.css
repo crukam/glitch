@@ -21,8 +21,7 @@ td {
   font-family: Helvetica Neue;
 }
 
-th, 
-colspan {
+th{
   background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fimage_0.png?1527761915609);
   font-family: Rock Salt;
 }
@@ -31,6 +30,7 @@ caption {
   caption-side: bottom; 
   
 }
-  
 
+tr td:nth-child(){
 
+}
