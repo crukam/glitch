@@ -3,6 +3,7 @@ table {
   text-align: center;
   width:80%;
   border: 2px solid #800080;
+
 }
 
 tbody{
@@ -28,11 +29,10 @@ tr td:nth-child(1) {
 
 th{
   background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
-  rgba(0,0,0,0.1), rgba(0,0,0,0.5);
   font-family: Rock Salt;
   color: white;
   border: 2px solid #800080;
-  padding: 12px 12px 12px 12px;
+  padding: 12px 12px 12px 12px; 
   
 }
 
@@ -42,7 +42,6 @@ th{
   font-family: Rock Salt;
   height: 40px;
   padding: 12px 12px 12px 12px;
-  linear-gradient:(rgba(0,0,0,0.5));
 }
 
 caption {
