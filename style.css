@@ -26,8 +26,9 @@ tr td:nth-child(1) {
   padding: 12px 12px 12px 12px;
 }
 
-th {
-  background:linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5)), url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
+thead,th {
+  background: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
+  lin
   font-family: Rock Salt;
   color: white;
   border: 2px solid #800080;
@@ -39,12 +40,15 @@ caption {
   font-family: Rock Salt;
   text-align: right;
 }
-tfoot{
-  background:linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5)), url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
+tf{
+  background:url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
   font-family: Rock Salt;
   color: white;
   border: 2px solid #800080;
   padding: 12px 12px 12px 12px;
+}
+ tfoot td {
+   background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5)), 
 }
 
 .two{
