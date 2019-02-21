@@ -27,8 +27,7 @@ tr td:nth-child(1) {
 }
 
 thead,th {
-  background:url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
+  background-image: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245), linear-gradient(rgba(0,0,0,0.1)50%, rgba(0,0,0,0.5)50%);
   font-family: Rock Salt;
   color: white;
   border: 2px solid #800080;
@@ -39,24 +38,18 @@ caption {
   caption-side: bottom; 
   font-family: Rock Salt;
   text-align: right;
+  letter-spacing: 1px;
 }
-tfoot th {
-  background:url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
+tfoot th,tfoot td {
+  background-image: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245), linear-gradient(rgba(0,0,0,0.1)50%, rgba(0,0,0,0.5)50%);
   font-family: Rock Salt;
   color: white;
   border: 2px solid #800080;
-  padding: 12px 12px 12px 12px;
+  padding: 20px 20px 20px 20px;
 }
-tfoot tr {
-   
-  
-}
-colspan-2 {
-  
-
-
-.two{
+.cell2{
   text-align: left;
+  
 }
+.cell1{
 
