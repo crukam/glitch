@@ -48,5 +48,10 @@ caption {
   font-family: Rock Salt;
   text-align: right;
 }
-
+.two{
+  text-align: left;
+  padding:0;
+}
+.one{
+}
 
