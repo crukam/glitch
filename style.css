@@ -3,7 +3,6 @@ table {
   text-align: center;
   width:80%;
   border: 2px solid #800080;
-
 }
 
 tbody{
@@ -40,7 +39,7 @@ caption {
   font-family: Rock Salt;
   text-align: right;
 }
-tfoot {
+tfoot{
   background:linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5)), url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245);
   font-family: Rock Salt;
   color: white;
