@@ -40,9 +40,15 @@ caption {
   text-align: right;
   letter-spacing: 1px;
 }
-tfoot th,tfoot td {
+tfoot th {
   background-image: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245), linear-gradient(rgba(0,0,0,0.1)50%, rgba(0,0,0,0.5)50%);
   font-family: Rock Salt;
+  color: white;
+  border: 2px solid #800080;
+  padding: 14px 20px 14px 22px;
+}
+tfoot td {
+  background-image: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245), linear-gradient(rgba(0,0,0,0.1)50%, rgba(0,0,0,0.5)50%);
   color: white;
   border: 2px solid #800080;
   padding: 14px 20px 14px 22px;
