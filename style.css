@@ -11,20 +11,15 @@ thead, tfoot{
   font-family:Rock Salt;
 }
 tbody{
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
-  font-size: 24px; 
-  font-style: normal
-  font-family:Helvetica Neu;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif; 
+  font-style: normal;
   text-align: center;
-  
 }
-tbody >tr{
-  background-color: #e495e4;
-}
+
 
 tbody> tr:nth-child(even){
   background-color: #e495e4;
-  
+  border: 2px solid #800080;
 }
 tbody> tr:nth-child(odd){
   background-color:#ff33cc;
