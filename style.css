@@ -2,7 +2,7 @@ table{
   width:100%;
   background-image: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?v=1527763317245),
     url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fnoise.png?v=1527763328062);
-  border-color:#800080;
+  border:2px solid #800080;
   border-collapse:collapse;
 }
 
@@ -15,7 +15,7 @@ tbody{
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif; 
   font-style: normal;
   text-align: center;
-  
+  border:2px solid #800080;
   
 }
 
