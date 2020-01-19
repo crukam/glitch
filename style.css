@@ -11,6 +11,9 @@ thead, tfoot{
   font-family:Rock Salt;
 }
 tbody{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  font-size: 24px; 
+  font-style: normal
   font-family:Helvetica Neu;
   text-align: center;
   
