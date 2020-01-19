@@ -10,15 +10,15 @@ thead, tfoot{
    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
   font-family:Rock Salt;
 }
+tbody{
+  font-family:Helvetica Neu;
+}
+
 tbody> tr:nth-child(even){
   background-color: #e495e4;
-  border: solid 3px #800080;
-  margin: 0 0 0 0;
-  height: 100%;
+  
 }
 tbody> tr:nth-child(odd){
   background-color:#ff33cc;
-  border: #800080;
-  margin: 0 0 0 0;
-  height:1 00 %;
+  
 }
