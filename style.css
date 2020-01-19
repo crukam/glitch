@@ -3,11 +3,11 @@ table{
   background-image: url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?v=1527763317245),
     url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fnoise.png?v=1527763328062);
 }
-tr:nth-child(even){
-  background-color:"#e495e4";
+tbody> tr:nth-child(even){
+  background-color: #e495e4;
 }
-tr:nth-child(odd){
-  
+tbody:nth-child(odd){
+  background-color:#ff33cc;
 }
 thead, tfoot{
   color:white;
