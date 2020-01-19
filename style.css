@@ -12,6 +12,11 @@ thead, tfoot{
 }
 tbody{
   font-family:Helvetica Neu;
+  text-align: center;
+  
+}
+tbody >tr{
+  background-color: #e495e4;
 }
 
 tbody> tr:nth-child(even){
